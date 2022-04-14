@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is FE1D-7B2C
-
- Directory of C:\Users\sindh\OneDrive\Desktop\my project
-
-14-04-2022  12:00    <DIR>          .
-14-04-2022  11:41    <DIR>          ..
-14-04-2022  12:00               129 test1.txt
-               1 File(s)            129 bytes
-               2 Dir(s)  142,797,778,944 bytes free
+change1
